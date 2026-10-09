@@ -1,6 +1,6 @@
 # ⬡ RECATRON — Recon Intelligence Toolbox
 
-MERN Stack cybersecurity recon dashboard with Jarvis-style UI.
+MERN Stack cybersecurity recon dashboard 
 
 ## Stack
 - **Frontend**: React + Vite (`localhost:5173`)
